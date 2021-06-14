@@ -1,7 +1,7 @@
 package artifactory.test;
 
 /**
- * Hello world! Hello hello!
+ * Hello world! Hello hello!!
  *
  */
 public class App 
